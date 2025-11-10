@@ -166,4 +166,3 @@ results_summary = pd.DataFrame({
 results_summary.to_csv(output_dir / "final_results_summary.csv", index=False)
 
 print(f"All plots and results saved to '{output_dir}' folder.")
-print("Project ready for GitHub deployment!")
