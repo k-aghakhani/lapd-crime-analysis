@@ -60,17 +60,20 @@ crime rate of suburban areas.*
 
 ## 📊 Visualizations
 
-This project generates high‑resolution plots, including:
+### 🔥 Crime Heatmap (Hour × Day)
+![Crime Heatmap](results/crime_heatmap_hour_day.png)
 
--   Crime Heatmap by Hour & Day
--   Top 10 Crime Types
--   Victim Age Distribution
--   Weapon Usage Breakdown
--   Monthly Crime Trend (2020--2023)
--   Geospatial Crime Hotspot Map
+### 🚗 Top 10 Crime Types
+![Top Crimes](results/top_crimes.png)
 
-All plots are saved in **300 DPI** quality for use in reports or
-dashboards.
+### 👤 Victim Age Distribution
+![Age Distribution](results/victim_age_distribution.png)
+
+### 🔫 Weapon Usage Breakdown
+![Weapon Usage](results/weapon_usage.png)
+
+### 📈 Crime Trend Over Time (2020–2023)
+![Crime Trend](results/monthly_crime_trends.png)
 
 ------------------------------------------------------------------------
 
@@ -170,6 +173,7 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
 
 
