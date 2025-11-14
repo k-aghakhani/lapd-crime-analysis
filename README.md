@@ -43,15 +43,15 @@ this project answers:
 
   Insight                       Finding
   ----------------------------- ----------------------------------------------
-  **Peak Crime Hour**           10 PM -- 2 AM
-  **Most Dangerous Day**        Friday & Saturday
-  **Top Crime Type**            Vehicle Theft (22%)
-  **Most Affected Age Group**   25--34 years old (28% of victims)
-  **Gender Disparity**          Males: 58% of victims
-  **Ethnic Breakdown**          Hispanic/Latino: 45%, White: 28%, Black: 18%
-  **Deadliest Weapon**          Handgun (68% of armed assaults)
-  **Riskiest Location**         Streets & Sidewalks (41%)
-  **Pandemic Impact**           2020 dip → sharp 2021--2022 spike
+  **Peak Crime Hour**           10 PM -- 2 AM\
+  **Most Dangerous Day**        Friday & Saturday\
+  **Top Crime Type**            Vehicle Theft (22%)\
+  **Most Affected Age Group**   25--34 years old (28% of victims)\
+  **Gender Disparity**          Males: 58% of victims\
+  **Ethnic Breakdown**          Hispanic/Latino: 45%, White: 28%, Black: 18%\
+  **Deadliest Weapon**          Handgun (68% of armed assaults)\
+  **Riskiest Location**         Streets & Sidewalks (41%)\
+  **Pandemic Impact**           2020 dip → sharp 2021--2022 spike\
 
 🔥 **Hotspot Alert:** *Downtown LA (Central Bureau) has nearly 3× the
 crime rate of suburban areas.*
@@ -165,5 +165,6 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
 
