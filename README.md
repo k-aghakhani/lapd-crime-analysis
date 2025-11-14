@@ -77,10 +77,10 @@ dashboards.
 ## 🛠 Tech Stack & Methodology
 
 -   **Data Cleaning:** missing values, category standardization,
-    datetime parsing\
--   **Feature Engineering:** hour/day/month/year extraction\
--   **Geospatial Analysis:** optional `folium` interactive maps\
--   **Visualization:** matplotlib, seaborn, plotly\
+    datetime parsing
+-   **Feature Engineering:** hour/day/month/year extraction
+-   **Geospatial Analysis:** optional `folium` interactive maps
+-   **Visualization:** matplotlib, seaborn, plotly
 -   **Aggregation:** `groupby`, `pivot_table`, `resample`
 
 A **reproducible pipeline** ensures consistent results.
@@ -92,17 +92,17 @@ A **reproducible pipeline** ensures consistent results.
 lapd-crime-analysis/
 │
 ├── data/
-│   └── crimes.csv    # Raw LAPD dataset (~300 MB)
+│   └── crimes.csv    # Raw LAPD dataset (~300 MB)/
 │
 ├── results/
-│   ├── cleaned_crime_data.csv                   # Processed/cleaned dataset
-│   ├── top_crimes.csv                           # Summary of top crime types
-│   ├── victim_demographics.csv                  # Victim age/gender/ethnicity summary
-│   └── monthly_crime_trends.csv                 # Monthly-level crime trend summary
+│   ├── cleaned_crime_data.csv                   # Processed/cleaned dataset/
+│   ├── top_crimes.csv                           # Summary of top crime types/
+│   ├── victim_demographics.csv                  # Victim age/gender/ethnicity summary/
+│   └── monthly_crime_trends.csv                 # Monthly-level crime trend summary/
 │
-├── main.py                                      # Entry-point script: cleaning, analysis, plotting
-├── requirements.txt                             # Python dependencies
-├── README.md                                    # This file
+├── main.py                                      # Entry-point script: cleaning, analysis, plotting/
+├── requirements.txt                             # Python dependencies/
+├── README.md                                    # This file/
 
 
 ------------------------------------------------------------------------
@@ -111,8 +111,8 @@ lapd-crime-analysis/
 
 ### Prerequisites
 
--   Python 3.8+\
--   4GB+ RAM\
+-   Python +3.8
+-   +4GB RAM
 -   Git
 
 ### Quick Start
@@ -131,7 +131,7 @@ python run_analysis.py
 
 Outputs will appear in:
 
--   `results/` → cleaned datasets\
+-   `results/` → cleaned datasets
 -   `plots/` → visualizations
 
 Runtime \~45 seconds.
@@ -140,10 +140,10 @@ Runtime \~45 seconds.
 
 ## 🚀 Potential Extensions
 
--   Predictive policing (XGBoost, Prophet)\
--   Streamlit interactive dashboard\
--   Neighborhood safety index\
--   Socioeconomic dataset merging\
+-   Predictive policing (XGBoost, Prophet)
+-   Streamlit interactive dashboard
+-   Neighborhood safety index
+-   Socioeconomic dataset merging
 -   Real‑time LAPD API alerts
 
 Pull requests are welcome!
@@ -152,19 +152,20 @@ Pull requests are welcome!
 
 ## 📜 License & Attribution
 
--   **License:** MIT\
--   **Data:** Los Angeles Open Data (Public Domain)\
+-   **License:** MIT
+-   **Data:** Los Angeles Open Data (Public Domain)
 
 ------------------------------------------------------------------------
 
 ## 👤 Author
 
-**Kiarash Aghakhani**\
+**Kiarash Aghakhani**
 
 ------------------------------------------------------------------------
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
 
 
