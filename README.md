@@ -25,7 +25,7 @@ The LAPD Crime Data (2020--2023) includes detailed records of:
 -   Weapon used
 -   Premise (street, residence, parking lot)
 
-**Source:** Los Angeles Open Data Portal via DataCamp
+**Source:** Los Angeles Open Data Portal via DataCamp\
 **Records Analyzed:** \~1,500,000+\
 **Time Period:** 2020--2023
 
@@ -165,4 +165,5 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
