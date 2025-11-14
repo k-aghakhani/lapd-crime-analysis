@@ -67,7 +67,7 @@ crime rate of suburban areas.*
 ![Top Crimes](results/top_crimes.png)
 
 ### 👤 Victim Age Distribution
-![Age Distribution](results/victim_age_distribution.png)
+![Victim Age Distribution](results/victim_age_distribution.png)
 
 ### 🔫 Weapon Usage Breakdown
 ![Weapon Usage](results/weapon_usage.png)
@@ -173,6 +173,7 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
 
 
