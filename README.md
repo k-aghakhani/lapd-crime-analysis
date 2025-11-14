@@ -162,13 +162,15 @@ Pull requests are welcome!
 
 ## 👤 Author
 
-**Kiarash Aghakhani**
+- **Author:** Kiarash Aghakhani
+- **Email:** kiarash1988@gmail.com
 
 ------------------------------------------------------------------------
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
 
+Built with ❤️ using Python.  
 
 
 
