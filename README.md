@@ -103,8 +103,8 @@ lapd-crime-analysis/
 │
 ├── main.py                                 # Entry-point script: cleaning, analysis, plotting
 ├── requirements.txt                        # Python dependencies
-├── README.md                               # This file
-└── .gitignore                              # Files to ignore in repo
+└── README.md                               # This file
+
 ```
 
 
@@ -170,6 +170,7 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
 
 
