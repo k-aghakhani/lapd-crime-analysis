@@ -92,17 +92,19 @@ A **reproducible pipeline** ensures consistent results.
 lapd-crime-analysis/
 │
 ├── data/
-│   └── crimes.csv    # Raw LAPD dataset (~300 MB)/
+│   └── crimes.csv                              # Raw LAPD dataset (~300 MB)
 │
 ├── results/
-│   ├── cleaned_crime_data.csv                   # Processed/cleaned dataset/
-│   ├── top_crimes.csv                           # Summary of top crime types/
-│   ├── victim_demographics.csv                  # Victim age/gender/ethnicity summary/
-│   └── monthly_crime_trends.csv                 # Monthly-level crime trend summary/
+│   ├── cleaned_crime_data.csv                  # Processed/cleaned dataset
+│   ├── top_crimes.csv                           # Summary of top crime types
+│   ├── victim_demographics.csv                  # Victim age/gender/ethnicity summary
+│   └── monthly_crime_trends.csv                 # Monthly-level crime trend summary
 │
-├── main.py                                      # Entry-point script: cleaning, analysis, plotting/
-├── requirements.txt                             # Python dependencies/
-├── README.md                                    # This file/
+├── main.py                                      # Entry-point script: cleaning, analysis, plotting
+├── requirements.txt                             # Python dependencies
+├── README.md                                    # This file
+└── .gitignore                                   # Files to ignore in repo
+
 
 
 ------------------------------------------------------------------------
@@ -165,6 +167,7 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
 
 
 
