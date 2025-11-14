@@ -4,7 +4,7 @@ A powerful data-driven investigation into over **1.5 million crime
 incidents** reported to the Los Angeles Police Department (LAPD) from
 **2020--2023**.\
 This project uncovers **crime hotspots**, **time-of-day patterns**,
-**victim demographics**, and **weapon usage** --- empowering
+**victim demographics**, and **weapon usage** - empowering
 policymakers, researchers, and residents with evidence-based insights
 into public safety.
 
@@ -18,23 +18,23 @@ transforms raw police records into actionable intelligence using
 
 The LAPD Crime Data (2020--2023) includes detailed records of:
 
--   Date & time of occurrence\
--   Crime type (e.g., burglary, assault, theft)\
--   Victim age, sex, descent\
--   Location (latitude/longitude)\
--   Weapon used\
+-   Date & time of occurrence
+-   Crime type (e.g., burglary, assault, theft)
+-   Victim age, sex, descent
+-   Location (latitude/longitude)
+-   Weapon used
 -   Premise (street, residence, parking lot)
 
-**Source:** Los Angeles Open Data Portal via DataCamp\
+**Source:** Los Angeles Open Data Portal via DataCamp
 **Records Analyzed:** \~1,500,000+\
 **Time Period:** 2020--2023
 
 Using data cleaning, geospatial analysis, and temporal trend detection,
 this project answers:
 
--   When and where do crimes peak?\
--   Who are the most affected victims?\
--   What are the deadliest weapons?\
+-   When and where do crimes peak?
+-   Who are the most affected victims?
+-   What are the deadliest weapons?
 -   How has crime evolved post‑pandemic?
 
 ------------------------------------------------------------------------
@@ -165,3 +165,4 @@ Pull requests are welcome!
 
 -   Turning crime data into safer cities --- one insight at a time.
 -   Star this repo if you believe in data-driven safety!
+
